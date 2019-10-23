@@ -1,0 +1,47 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "accountancy",
+    "packageName": "com.mycompany.myapp",
+    "packageFolder": "com/mycompany/myapp",
+    "serverPort": 8082,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.4.1",
+    "jwtSecretKey": "NzQ0Y2I4MjU4N2IzMjZlNmJkMTk4YmQ4NzhhZTFhZjgzYjhmYmMyYzFlOTk4N2EwNzRmNWNiMjRjMDU2NjQ4ZmIwMGU0YzkwMTk1MzdhZjhiYmRiZThjZWU4MGU1N2I4ZmZmNzc3Yjk3OTViNjZhOGI4MGYxNDllYzUyNGRiNDQ=",
+    "embeddableLaunchScript": false,
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "sarraz1",
+  "repository-name": "jhipster-training-accountancy"
+}
